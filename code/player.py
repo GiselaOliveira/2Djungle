@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from Projectile import Projectile
+from projectile import Projectile
 
 
 class Player(Projectile):
